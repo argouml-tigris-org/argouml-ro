@@ -22,7 +22,7 @@
     <dependency>
       <groupId>org.argouml</groupId>
       <artifactId>test-i18n-properties</artifactId>
-      <version>${project.version}</version>
+      <version>0.35.3-SNAPSHOT</version>
       <scope>test</scope>
     </dependency>
 
