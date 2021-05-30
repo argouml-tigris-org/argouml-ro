@@ -35,7 +35,7 @@
 
     <dependency>
       <groupId>org.argouml</groupId>
-      <artifactId>argo_cpp</artifactId>
+      <artifactId>argouml-cpp</artifactId>
       <version>${project.version}</version>
       <scope>test</scope>
     </dependency>
